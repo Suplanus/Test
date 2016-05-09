@@ -17,6 +17,7 @@ namespace Suplanus.EplAddin.AddinTemplate1
 
       public bool Execute(ActionCallingContext oActionCallingContext)
       {
+         // Hello
          return true;
       }
    }
